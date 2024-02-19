@@ -1,6 +1,6 @@
 # Charan A A | ML Engineer | Open to Opportunities
 
-📧 mariswarycharan@gmail.com | 📞 6383636037 | 📍 Namakkal, India
+📧 mariswarycharan@gmail.com  | 📍 Namakkal, India
 🌐 [LinkedIn](https://www.linkedin.com/in/charanaa) | 🐙 [GitHub](https://github.com/mariswarycharan)
 
 ## Summary
