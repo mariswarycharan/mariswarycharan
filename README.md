@@ -1,7 +1,3 @@
-Here's a polished, professional, and visually appealing GitHub README.md markdown tailored specifically from your resume:
-
----
-
 # 👋 Hi, I'm Charan A A - ML Engineer & AI Enthusiast 🚀
 
 I'm passionate about transforming innovative ideas into reality through AI and Machine Learning, crafting solutions in **Computer Vision, NLP, Large Language Models, Generative AI, and MLOps**. Always excited to collaborate on projects redefining technology's future!
