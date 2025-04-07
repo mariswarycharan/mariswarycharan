@@ -82,7 +82,7 @@ I'm passionate about transforming innovative ideas into reality through AI and M
 ---
 
 ### 📈 **GitHub Stats**
-![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariswarycharan&show_icons=true&theme=radical)
 
 ---
 
